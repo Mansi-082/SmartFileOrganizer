@@ -1,1 +1,2 @@
-echo "Smart File Organizer – placeholder. Use --help for usage."
+
+echo "Smart File Organizer - placeholder. Use --help for usage."
