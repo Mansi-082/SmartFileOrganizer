@@ -1,2 +1,3 @@
-# SmartFileOrganizer
-Smart File Organizer for Linux — sorts files by type/date/size, detects duplicates, compresses old files
+Short: Shell-script utility to automatically organize files by type, date and size; detect duplicates; compress old files; run via cron.
+- Repo setup
+- See docs/ for more info
