@@ -18,3 +18,9 @@ Run:
 ```bash
 ./scripts/find_duplicates.sh
 
+## Compression and Cleanup
+
+### Compress Old Files
+```bash
+./scripts/compress_old.sh
+
