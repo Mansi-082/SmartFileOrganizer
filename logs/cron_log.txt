@@ -1,0 +1,768 @@
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+mkdir: ../logs: Permission denied
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 35: ./scripts/sort_by_date.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 38: ./scripts/compress_old.sh: No such file or directory
+/Users/prafful/SmartFileOrganizer/scripts/main.sh: line 39: ./scripts/cleanup.sh: No such file or directory
