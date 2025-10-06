@@ -1,0 +1,8 @@
+Smart File Organizer - placeholder. Use --help for usage.
+/Users/mandarwankhede/SmartFileOrganizer/scripts/main.sh: line 34: ./scripts/sort_by_type.sh: Permission denied
+[docs/automation e383481] Implemented date-based sorting script (closes #3)
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 docs/automation_flow.jpeg
+Files sorted by date in .
+/Users/mandarwankhede/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: Permission denied
+/Users/mandarwankhede/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
