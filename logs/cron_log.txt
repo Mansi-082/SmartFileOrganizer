@@ -6,3 +6,39 @@ Smart File Organizer - placeholder. Use --help for usage.
 Files sorted by date in .
 /Users/mandarwankhede/SmartFileOrganizer/scripts/main.sh: line 36: ./scripts/sort_by_size.sh: Permission denied
 /Users/mandarwankhede/SmartFileOrganizer/scripts/main.sh: line 37: ./scripts/find_duplicates.sh: No such file or directory
+Smart File Organizer - placeholder. Use --help for usage.
+On branch docs/final-testing
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs/cron_log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Files sorted by date in .
+Smart File Organizer - placeholder. Use --help for usage.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs/cron_log.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	docs/screenshots/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Files sorted by date in .
+Smart File Organizer - placeholder. Use --help for usage.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs/cron_log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Files sorted by date in .
