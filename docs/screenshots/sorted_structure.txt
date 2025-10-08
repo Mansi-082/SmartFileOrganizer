@@ -1,9 +1,19 @@
-date
-size
-type
-
-sorted/date:
+sorted:
+size/
+type/
 
 sorted/size:
+small/
+
+sorted/size/small:
+logfile.txt
 
 sorted/type:
+md/
+txt/
+
+sorted/type/md:
+README.md
+
+sorted/type/txt:
+logfile.txt
