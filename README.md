@@ -5,7 +5,7 @@
 ---
 
 ## 📘 Overview  
-The *Smart File Organizer* automatically sorts, compresses, and cleans project files.  
+The *Smart File Organiser* automatically sorts, compresses, and cleans project files.  
 It is fully automated with a daily *cron job* that runs every night at 8 PM.  
 Developed using *Bash scripting (Linux shell)* and tested on macOS and Windows Git Bash.
 
@@ -17,7 +17,7 @@ Developed using *Bash scripting (Linux shell)* and tested on macOS and Windows G
 |:--|:--|
 | Sort by Type | Groups files by extension (txt, pdf, jpg, etc.) |
 | Sort by Date | Organizes files by modification date |
-| Sort by Size | Separates small / medium / large files |
+| Sort by Size | Separates small/medium/large files |
 | Duplicate Finder | Detects duplicates using MD5 checksum |
 | Compression | Archives files > 30 days old to ⁠ /backups/ ⁠ |
 | Cleanup | Removes empty folders after sorting |
@@ -27,7 +27,7 @@ Developed using *Bash scripting (Linux shell)* and tested on macOS and Windows G
 ---
 
 ## ⚙️ Folder Structure
-[08/10/25, 1:46:33 PM] Mansi Entc: SmartFileOrganizer/
+SmartFileOrganizer/
 ├── scripts/
 │ ├── main.sh
 │ ├── sort_by_type.sh
@@ -48,7 +48,6 @@ Developed using *Bash scripting (Linux shell)* and tested on macOS and Windows G
 │ ├── final_testing.md
 │ └── contribution.md
 └── README.md
-[08/10/25, 1:46:45 PM] Mansi Entc: ---
 
 ## ⚙️ Automation Flow  
 At 8 PM daily, a cron job runs ⁠ main.sh --all ⁠ which calls every script in sequence:  
