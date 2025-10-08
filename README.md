@@ -1,17 +1,17 @@
-[08/10/25, 1:46:19 PM] Mansi Entc: # 🧠 Smart File Organizer  
+Smart File Organizer  
 
 ### A Cross-Platform Bash Automation Tool for macOS, Linux, and Windows (Git Bash)
 
 ---
 
-## 📘 Overview  
+## Overview  
 The *Smart File Organiser* automatically sorts, compresses, and cleans project files.  
 It is fully automated with a daily *cron job* that runs every night at 8 PM.  
 Developed using *Bash scripting (Linux shell)* and tested on macOS and Windows Git Bash.
 
 ---
 
-## 🧩 Features  
+## Features  
 
 | Module | Description |
 |:--|:--|
@@ -26,7 +26,7 @@ Developed using *Bash scripting (Linux shell)* and tested on macOS and Windows G
 
 ---
 
-## ⚙️ Folder Structure
+## Folder Structure
 SmartFileOrganizer/
 ├── scripts/
 │ ├── main.sh
@@ -49,7 +49,7 @@ SmartFileOrganizer/
 │ └── contribution.md
 └── README.md
 
-## ⚙️ Automation Flow  
+## Automation Flow  
 At 8 PM daily, a cron job runs ⁠ main.sh --all ⁠ which calls every script in sequence:  
 
 •⁠  ⁠Sort → Duplicate → Compress → Cleanup → Log  
@@ -58,7 +58,7 @@ At 8 PM daily, a cron job runs ⁠ main.sh --all ⁠ which calls every scrip
 
 ---
 
-## 💻 How to Run  
+## How to Run  
 
 *macOS / Linux:*  
 ```bash
