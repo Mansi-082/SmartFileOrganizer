@@ -1,14 +1,15 @@
 # Final Testing Report
 
-## Summary
-All modules executed manually and via cron invocation.
+## Test Summary
+- Full run: `bash scripts/main.sh --all`
+- Actions log: `logs/actions.log` (latest entries in docs/screenshots/actions_preview.txt)
+- Cron log: `logs/cron_log.txt` (if cron executed)
 
-## Artifacts
-- docs/screenshots/actions_preview.txt
-- docs/screenshots/cron_preview.txt
-- docs/screenshots/sorted_structure.txt
+## Artifacts (in docs/screenshots)
+- run_full_output.txt
+- actions_preview.txt
+- cron_preview.txt
+- sorted_structure.txt
 
-## Notes
-- Duplicate detection uses md5 on macOS.
-- Compression verified (files older than 30 days moved to backups).
-- Cleanup removed empty folders.
+## Result
+All modules executed successfully in manual run. No critical errors remain. See artifacts for proof.

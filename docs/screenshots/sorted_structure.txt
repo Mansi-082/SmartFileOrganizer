@@ -1,16 +1,15 @@
-sorted:
-size/
-type/
+size
+type
 
 sorted/size:
-small/
+small
 
 sorted/size/small:
 logfile.txt
 
 sorted/type:
-md/
-txt/
+md
+txt
 
 sorted/type/md:
 README.md
